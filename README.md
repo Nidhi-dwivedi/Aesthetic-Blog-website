@@ -62,9 +62,9 @@ BlushBlog/
 └── README.md        # Project documentation
 ```
 
-## 🎨 Screenshots
+## 🎨 Demo
 
-_Add screenshots here to showcase your app's design and features._
+_https://fancy-tarsier-fe184e.netlify.app/_
 
 ## 🌟 Contributing
 
@@ -72,11 +72,4 @@ Contributions are welcome! If you find any bugs or have suggestions, feel free t
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📧 Contact
-
-For any inquiries or feedback, reach out to:
-
-- **Your Name**: [Your Email](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/<your-username>)
